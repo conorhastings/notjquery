@@ -1,9 +1,9 @@
 # Not JQuery
 This is not JQuery
 
-To use:
+To use:<br>
 var $ = require('notjquery');
 
-$('#exampleID');
-$('.exampleClass');
+$('#exampleID');<br>
+$('.exampleClass');<br>
 $('p');
