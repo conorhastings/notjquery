@@ -1,5 +1,5 @@
 {
-  "name": "notJQuery",
+  "name": "notjquery",
   "version": "0.0.1",
   "description": "Using the native javascript API to simulate the dom functions of JQuery",
   "main": "index.js",
@@ -9,6 +9,11 @@
   "keywords": [
     "jquery"
   ],
+  "homepage": "http://github.com/conorhastings/notjquery",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/conorhastings/notjquery.git"
+  },
   "author": "Conor Hastings",
   "license": "MIT"
 }
