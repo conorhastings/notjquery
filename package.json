@@ -1,0 +1,14 @@
+{
+  "name": "notJQuery",
+  "version": "0.0.1",
+  "description": "Using the native javascript API to simulate the dom functions of JQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "Conor Hastings",
+  "license": "MIT"
+}
