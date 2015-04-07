@@ -1,6 +1,6 @@
 {
   "name": "notjquery",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Using the native javascript API to simulate the dom functions of JQuery",
   "main": "index.js",
   "files": "index.js",
